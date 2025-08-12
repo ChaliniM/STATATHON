@@ -1,0 +1,11 @@
+Name,Age,Occupation,City,Salary
+Alice,25.0,Data scientist,New York,85000.0
+Bob,,Data Scientist ,new york,85000.0
+Charlie,30.0,doctor,Delhi,
+David,29.0,Doctor,delhi,92000.0
+Eve,35.0,Teacher,London,50000.0
+Frank,35.0,teacher,london,50000.0
+Grace,,Engineer,Mumbai,75000.0
+Heidi,28.0,engineer,mumbai,76000.0
+Ivan,31.0,Lawyer,,88000.0
+Judy,31.0,lawyer,Paris,90000.0
